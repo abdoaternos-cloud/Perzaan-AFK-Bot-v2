@@ -7,8 +7,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "CrazyCrew.aternos.me",
+    "port": 53734,
     "version": "1.21.1"
   },
   "position": {
